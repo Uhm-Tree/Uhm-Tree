@@ -1,10 +1,10 @@
-## QA Engineer | HW & Web & Mobile QA | Test Automation
+## QA Engineer | HW · Web · Mobile QA | Test Automation
 
 안녕하세요!
 
 품질을 통해 안정적인 서비스를 만드는 QA 엔지니어 엄현교입니다.
 
-게임 운영과 보안 운영 경험을 바탕으로 사용자 관점에서 문제를 발견하는 역량을 키웠으며, 이후 NAVER LABS 에서 HW·EWeb·Mobile QA를 수행하며 테스트 케이스 설계, API 검증, 성능 테스트, 자동화를 경험했습니다.
+게임 운영과 보안 운영 경험을 바탕으로 사용자 관점에서 문제를 발견하는 역량을 키웠으며, 이후 NAVER LABS에서 HW·Web·Mobile 환경의 QA를 수행하며 테스트 케이스 설계, API 검증, 성능 테스트, 자동화를 경험했습니다.
 
 반복적인 검증 업무는 Python과 Selenium으로 자동화를 시도하며 QA 업무 효율을 높이는 방법도 함께 고민하고 있습니다.
 
@@ -57,7 +57,7 @@
 
 - Python
 
-## Collaboration
+## 협업 도구
 
 - Git
 - GitHub
@@ -101,11 +101,7 @@ QA 업무 효율화를 위한 Python 스크립트를 정리한 저장소입니�
 
 # 📫 연락처
 
-H·P
-
-- 010-2763-9872
-
-Email
+E-mail
 
 - pong123123@naver.com
 
@@ -117,4 +113,4 @@ GitHub
 
 ## 💡 My Goal
 
-> "사용자에게 더 안정적인 서비스를 제공하기 위해 품질과 자동화를 지속적으로 고민하며 배우고 성장하는 QA 엔지니어를 지향합니다."
+> "사용자에게 더 안정적인 서비스를 제공하기 위해 품질과 자동화를 지속적으로 고민하며, 배우고 성장하는 QA 엔지니어를 지향합니다."
