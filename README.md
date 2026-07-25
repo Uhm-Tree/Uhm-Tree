@@ -109,7 +109,7 @@ QA 업무 효율화를 위한 Python 스크립트를 정리한 저장소입니�
 
 💻 GitHub
 
-https://github.com/Uhm-Tree
+- https://github.com/Uhm-Tree
 
 ---
 
