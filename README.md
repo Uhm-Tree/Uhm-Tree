@@ -101,13 +101,15 @@ QA 업무 효율화를 위한 Python 스크립트를 정리한 저장소입니�
 
 # 📫 연락처
 
+H·P
+
 - 010-2763-9872
 
-📧 Email
+Email
 
 - pong123123@naver.com
 
-💻 GitHub
+GitHub
 
 - https://github.com/Uhm-Tree
 
