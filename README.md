@@ -15,12 +15,12 @@
 ### QA Engineer
 **NAVER LABS (HR Service Dispatch)**
 
-• HW · Web · Mobile 품질 검증
-• 테스트 케이스 설계 및 유지보수
-• 기능 및 회귀 테스트
-• Postman 기반 API 검증
-• Locust 기반 성능 테스트
-• Python · Selenium 기반 테스트 자동화
+- HW · Web · Mobile 품질 검증
+- 테스트 케이스 설계 및 유지보수
+- 기능 및 회귀 테스트
+- Postman 기반 API 검증
+- Locust 기반 성능 테스트
+- Python · Selenium 기반 테스트 자동화
 
 ---
 
@@ -101,7 +101,7 @@ QA 업무 효율화를 위한 Python 스크립트를 정리한 저장소입니�
 
 # 📫 연락처
 
-- 010. 2763. 9872
+- 010-2763-9872
 
 📧 Email
 
@@ -115,4 +115,4 @@ https://github.com/Uhm-Tree
 
 ## 💡 My Goal
 
-> "용자에게 더 안정적인 서비스를 제공하기 위해 품질과 자동화를 지속적으로 고민하며 배우고 성장하는 QA 엔지니어를 지향합니다."
+> "사용자에게 더 안정적인 서비스를 제공하기 위해 품질과 자동화를 지속적으로 고민하며 배우고 성장하는 QA 엔지니어를 지향합니다."
