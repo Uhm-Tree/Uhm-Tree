@@ -1,4 +1,4 @@
-## QA Engineer | Web & Mobile QA | Test Automation
+## QA Engineer | HW & Web & Mobile QA | Test Automation
 
 안녕하세요!
 
