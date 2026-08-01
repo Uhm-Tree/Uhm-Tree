@@ -15,31 +15,33 @@
 ### QA Engineer
 **NAVER LABS (HR Service Dispatch)**
 
-- HW · Web · Mobile 품질 검증
+- HW·Web·Mobile 품질 검증
 - 테스트 케이스 설계 및 유지보수
 - 기능 및 회귀 테스트
 - Postman 기반 API 검증
 - Locust 기반 성능 테스트
-- Python · Selenium 기반 테스트 자동화
+- Python·Selenium 기반 테스트 자동화
 
 ---
 
 ### Game Security Operation
 **WonderPeople**
 
-- 게임 보안 프로그램 테스트
-- 치트 사용자 모니터링 및 제재
-- 인게임 버그 검증
-- 보안 운영 지원
+- 게임 보안 프로그램 신규 기능 및 정책 테스트
+- 치트 프로그램 및 비정상 플레이 모니터링·제재
+- 인게임 버그 재현 및 기능 검증
+- 보안 프로그램 UI/UX 개선 및 기능 기획 회의 참여
+- 신규 입사자 대상 보안 운영 프로세스 및 정책 교육
 
 ---
 
 ### Game Operation
 **PUBG (MetaM)**
 
-- 라이브 서버 모니터링 및 이슈 대응
-- 버그 검증
-- VOC 분석
+- PC·Mobile·Console 라이브 서비스 모니터링 및 이슈 대응
+- 인게임 서버 및 기능 검증
+- 버그 재현 및 관련 부서 이슈 공유
+- 이용자 VOC 모니터링 및 이슈 취합
 
 ---
 
@@ -85,7 +87,7 @@ QA 업무 효율화를 위한 Python 스크립트를 정리한 저장소입니�
 # 📜 자격증
 
 - ISTQB Foundation Level
-- Engineer Information Processing
+- 정보처리기사
 
 ---
 
